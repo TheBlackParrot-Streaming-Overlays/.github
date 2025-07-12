@@ -7,5 +7,5 @@ This is my own personal streaming overlay suite that I allow anyone else to use,
 
 ----
 
-All code under this repository is licensed under the GNU Affero General Public License.  
+All code under this GitHub organization is licensed under the GNU Affero General Public License.  
 See the [.github](https://github.com/TheBlackParrot-Streaming-Overlays/.github/tree/main) repository for more information.
